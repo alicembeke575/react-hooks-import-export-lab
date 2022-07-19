@@ -1,5 +1,5 @@
-const username = "Liza";
-const city = "New York";
+const username = "Alice";
+const city = "Kenya";
 
 const image = "https://i.imgur.com/mV8PQxj.gif";
 
